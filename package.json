@@ -1,0 +1,34 @@
+{
+  "name": "ai-training-strategic-sourcing",
+  "version": "1.0.0",
+  "description": "AI Training Platform for Rutgers University Strategic Sourcing Team",
+  "main": "public/index.html",
+  "scripts": {
+    "start": "python -m http.server 8000",
+    "dev": "python -m http.server 8000",
+    "build": "echo 'Static site - no build required'",
+    "deploy": "echo 'Deploy to your preferred static hosting service'"
+  },
+  "keywords": [
+    "ai",
+    "training",
+    "procurement",
+    "strategic-sourcing",
+    "rutgers",
+    "education"
+  ],
+  "author": "Rutgers University Strategic Sourcing Team",
+  "license": "MIT",
+  "devDependencies": {},
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-org/ai-training-strategic-sourcing.git"
+  },
+  "browserslist": [
+    "Chrome >= 80",
+    "Firefox >= 75",
+    "Safari >= 13",
+    "Edge >= 80"
+  ]
+} 
